@@ -1,4 +1,4 @@
- Switch BT
+# Switch BT
 
 A project that uses electronics artifacts to make a switch controlled via bluetooth - and other features.
 
@@ -43,7 +43,7 @@ To reproduce this project, you will need:
 
 #### I - Smartphone
 
-To install the app on your phone, download the app via this [link](https://github.com/lucasrochagit/switch-bt/blob/v1/app/InterruptorBluetooth.apk) and install the app on your phone. You may need to configure permission to install third-party applications on your smartphone.
+To install the app on your phone, download the app via this [link](https://github.com/lucasrochagit/switch-bt/blob/master/app/InterruptorBluetooth.apk) and install the app on your phone. You may need to configure permission to install third-party applications on your smartphone.
 
 #### II - Digispark Attiny
 
@@ -68,7 +68,7 @@ If the program is successfully recorded, a message will appear in the terminal: 
 The circuit can be assembled according to the image below:
 
 
-![Circuit](https://github.com/lucasrochagit/switch-bt/blob/v1/images/circuit.png)
+![Circuit](https://github.com/lucasrochagit/switch-bt/blob/master/images/circuit.png)
 
 
 
