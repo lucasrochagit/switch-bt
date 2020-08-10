@@ -80,7 +80,7 @@ The circuit can be assembled according to the image below:
 * D3 -> LDR sensor
 * D4 -> PIR sensor
 
-Usage video: coming soon! 
+Usage video: https://youtu.be/fGQhIy3a5Rw
 
 ## Built With
 
